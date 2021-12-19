@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Doruk Gerçel
+<h3 align="center">I'm a fourth year undergraduate Computer Engineering student at Middle East Technical University, Turkey.</h3>
+
 
 <!--
 **DorukGercel/DorukGercel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
