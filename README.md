@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Doruk Gerçel
-<h3 align="center">I'm a fourth year undergraduate Computer Engineering student at Middle East Technical University, Turkey.</h3>
+<h3 align="center"> Hi there 👋, I'm Doruk Gerçel </h3>
+<h3 align="center">I'm an ndergraduate Computer Engineering student at Middle East Technical University, Turkey.</h3>
 
 
 <!--
