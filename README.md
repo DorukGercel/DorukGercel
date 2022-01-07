@@ -2,7 +2,6 @@
 <h4 align="left">I'm an undergraduate Computer Engineering and a minor Mathematics student at Middle East Technical University, Turkey.</h3>
 
 - 🌱 I’m currently learning **NodeJS** and **Go**
-- 🔭 I’m currently enrolled in **Getir&Patika.dev Node.js Bootcamp**
 - 📫 How to reach me **dorukgercel@gmail.com**
 
 
