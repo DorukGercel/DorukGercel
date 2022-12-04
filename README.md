@@ -1,5 +1,5 @@
 <h3 align="center"> Hi there 👋, I'm Doruk Gerçel </h3>
-<h4 align="left">I'm an undergraduate Computer Engineering and a minor Mathematics student at Middle East Technical University, Turkey.</h3>
+<h4 align="left">I'm a Junior Software Engineer who obtained Computer Engineering and a minor Mathematics bachelor degrees from Middle East Technical University, Turkey. Curently I'm working as a Go Backend Developer.</h3>
 
 - 🌱 I’m currently learning **NodeJS** and **Go**
 - 📫 How to reach me **dorukgercel@gmail.com**
