@@ -1,7 +1,6 @@
 <h3 align="center"> Hi there 👋, I'm Doruk Gerçel </h3>
-<h4 align="left">I'm a software engineer who obtained Computer Engineering and a minor Mathematics bachelor degrees from Middle East Technical University, Turkey. Curently I'm working as a Go Backend Developer.</h3>
+<h4 align="left">I'm a software engineer who obtained Computer Engineering and a minor Mathematics bachelor degrees from Middle East Technical University, Turkey. Curently I'm pursuing MSc degree in Technical University of Munich and working in Rohde & Schwarz as a frontend developer.</h3>
 
-- 🌱 I’m currently learning **NodeJS** and **Kotlin**
 - 📫 How to reach me **dorukgercel@gmail.com**
 
 
